@@ -72,6 +72,12 @@ img {
   #img-caption {
     font-size: 1.4rem;
   }
+  img {
+  max-width: 50%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
 }
 
 #headline {
